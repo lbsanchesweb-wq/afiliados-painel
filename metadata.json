@@ -1,0 +1,5 @@
+{
+  "name": "Etiquetas Mágicas - Afiliados",
+  "description": "A comprehensive dashboard for managing affiliates, products, orders, and withdrawals. It features separate interfaces for administrators and affiliates to handle their respective tasks.",
+  "requestFramePermissions": []
+}
